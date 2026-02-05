@@ -21,3 +21,4 @@ python etl_pao.py
 - etl_pao.py: Script principal de extracao, transformacao e carga.
 - setup_pao_pao.sql: Script de criacao das tabelas e modelagem relacional.
 - metricas_trimestre.sql: Consultas para validacao de KPIs solicitados.
+- Power bi: dashpadaria.pbix.
